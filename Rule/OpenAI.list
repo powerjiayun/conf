@@ -196,7 +196,6 @@ DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,observeit.net
-DOMAIN-SUFFIX,open-ai-chat-omega.vercel.app
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openai.nooc.ink
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
@@ -247,6 +246,7 @@ DOMAIN-SUFFIX,theb.ai
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,typingmind.com
 DOMAIN-SUFFIX,uscardforum.com
+DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
